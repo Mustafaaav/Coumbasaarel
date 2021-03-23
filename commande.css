@@ -1,0 +1,172 @@
+
+
+
+
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: cursive;
+
+}
+
+.navbar{
+	width: 100%;
+	position: fixed;
+	background-color: crimson;
+	padding: 15px 0px;
+
+}
+.navbar .max-width{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.logo a{
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+//////////////////////////////*******************************************************************///////////////////////////////////////////////////////////////
+.logo span{
+	color: #000;
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li a{
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	font-family: script;
+	margin-left: 15px;
+	margin-right: 100px;
+	transition: color 1s;
+	}
+	
+
+
+.menu li a:hover{
+	color: purple;
+	}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////*******************************///////////////////////////////////
+.text{margin-top: 400px;
+}
+
+.pot1{padding-top: 100px;
+}
+
+
+input{border-radius:30px;
+							
+							}
+							
+							select{border-radius:30px;}
+					
+
+
+					.formulaire{padding-left: 500px
+								width:400px;
+									height:200px;
+									background-color: pink;
+								}
+
+.texte{padding-top: 100px;
+	margin-left: 400px;
+	font-size: 30px;
+	font-family: script;
+	color:purple;
+}
+
+.texte span{color:red;
+	font-family: script;
+}
+
+
+
+
+								.portion{margin-top: 70px;
+									margin-left: 140px;
+								}
+
+								
+
+.image1{margin-top: 70px;
+		margin-left: 50px;
+		width:700px;
+		height: 600px;
+		object-fit: cover;
+}
+
+
+
+.image2{margin-top: 70px;
+		padding-left: 7px;
+
+		width:700px;
+
+		object-fit: cover;
+		height: 600px;
+}
+
+
+
+
+.image3{margin-top: 20px;
+		margin-left: 50px;
+
+		width:700px;
+
+		object-fit: cover;
+		height: 600px;
+}
+
+
+.image4{margin-top: 20px;
+		padding-left: 7px;
+
+		width:700px;
+
+		object-fit: cover;
+		height: 600px;
+}
+
+
+
+
+
+
+
+.image5{margin-top: 20px;
+		margin-left: 50px;
+
+		width:700px;
+
+		object-fit: cover;
+		height: 600px;
+}
+
+
+
+
+
+
+.image6{margin-top: 20px;
+		padding-left: 7px;
+
+		width:700px;
+
+		object-fit: cover;
+		height: 600px;
+}

@@ -1,0 +1,55 @@
+.image1{width:800px;
+		height:700px;
+		margin-left: 50px;
+		object-fit: cover;
+		}
+
+
+		.many{margin-top: 600px;
+			margin-left: 600px;
+
+		}
+
+		.image2{width:1500px;
+		height:700px;
+		padding-left: 15px;
+		object-fit: cover;
+		}
+
+
+
+
+		.image3{width:1500px;
+		height:700px;
+		padding-left:5px;
+		object-fit: cover;
+		margin-left: 10px;
+		}
+
+
+
+
+		.image4{width:1500px;
+		height:700px;
+		margin-left:50px;
+		object-fit: cover;
+		background-attachment: fixed;
+		
+
+	}
+
+
+
+	.image5{width:1500px;
+		height:700px;
+		padding-left:15px;
+			object-fit: cover;
+		}
+
+
+
+		.image6{width:1500px;
+		height:700px;
+		padding-left:15px;
+		object-fit: cover;
+		}
